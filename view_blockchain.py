@@ -1,6 +1,5 @@
 from rich.console import Console
 from rich.table import Table
-from rich.panel import Panel
 import sys
 from firebase import get_data
 

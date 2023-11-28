@@ -35,6 +35,8 @@ ip_columns=['Breathing Problem', 'Fever', 'Dry Cough', 'Sore throat', 'Headache'
 user_input_data = collect_patient_data(ip_columns)
 result = predict_covid_status(model, user_input_data)
 
+print("\n",result,"\n")
+
 time_struct = time.localtime()
 timestamp_str = time.strftime("%I:%M:%S %p %d/%m/%Y", time_struct)
 
