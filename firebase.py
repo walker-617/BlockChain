@@ -3,7 +3,7 @@
 # from firebase_admin import firestore
 # import hashlib
 
-# cred = credentials.Certificate('blockchain-private-key-hema.json')
+# cred = credentials.Certificate(<your private key json here>)
 
 # app = firebase_admin.initialize_app(cred)
 
