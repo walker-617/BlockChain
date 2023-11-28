@@ -1,0 +1,4 @@
+scikit-learn
+firebase-admin
+rich
+pandas
