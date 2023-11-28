@@ -1,0 +1,21 @@
+BLOCK-0
+Previous hash:
+  
+Current hash:
+  1e7f352067a7bd082ea24a32aff35a974fc3325fc4e17fe1d70ef157470a5177
+Genisis block
+
+BLOCK-1
+Previous hash:
+  1e7f352067a7bd082ea24a32aff35a974fc3325fc4e17fe1d70ef157470a5177
+Current hash:
+  4f1525b90924e2e9ee333d8cb6de9d80f000f9a47640d085bd9d3ddfcd32e0f2
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Breathing   | Fever | Dry Cough | Sore throat | Headache | Fatigue  | Gastroint… | Abroad      | Contact    | Attended    | Visited    | timestamp   | has Covid  |
+| Problem     |       |           |             |          |          |            | travel      | with COVID | Large       | Public     |             |            |
+|             |       |           |             |          |          |            |             | Patient    | Gathering   | Exposed    |             |            |
+|             |       |           |             |          |          |            |             |            |             | Places     |             |            |
+| yes         | yes   | yes       | yes         | yes      | yes      | yes        | yes         | yes        | yes         | yes        | 03:51:54 PM | Patient    |
+|             |       |           |             |          |          |            |             |            |             |            | 28/11/2023  | has Covid  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
